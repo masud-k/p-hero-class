@@ -1,0 +1,32 @@
+[
+    {
+        "category": "Technology",
+        "title": "The Future of AI",
+        "owner": "John Doe",
+        "thumbnail": "https://example.com/thumbnails/ai-future.jpg"
+    },
+    {
+        "category": "Health",
+        "title": "10 Tips for a Healthier Life",
+        "owner": "Jane Smith",
+        "thumbnail": "https://example.com/thumbnails/health-tips.jpg"
+    },
+    {
+        "category": "Travel",
+        "title": "Top 10 Destinations to Visit in 2024",
+        "owner": "Alice Johnson",
+        "thumbnail": "https://example.com/thumbnails/top-destinations.jpg"
+    },
+    {
+        "category": "Finance",
+        "title": "Investing for Beginners",
+        "owner": "Robert Brown",
+        "thumbnail": "https://example.com/thumbnails/investing-beginners.jpg"
+    },
+    {
+        "category": "Education",
+        "title": "Learning Python Programming",
+        "owner": "Emily Davis",
+        "thumbnail": "https://example.com/thumbnails/learn-python.jpg"
+    }
+]
